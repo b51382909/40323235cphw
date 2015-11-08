@@ -755,7 +755,6 @@ Diff...
 <t tx="40323235.20151108203213.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;內容&lt;/h1&gt;
     &lt;p&gt;用cero繪圖。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -763,7 +762,6 @@ Diff...
     &lt;h1&gt;心得&lt;/h1&gt;
     &lt;p&gt;這次作業除了要在學一套繪圖軟體以外，還要錄製影片，經過這次作業後學到很多。&lt;/p&gt;
     &lt;p&gt;自評分數:70&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>

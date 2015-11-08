@@ -3,7 +3,7 @@
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業二投影片&lt;/a&gt;
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;
 &lt;/br&gt;
 &lt;p&gt;零件1&lt;/p&gt;
 &lt;iframe src="https://vimeo.com/145036370" width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
