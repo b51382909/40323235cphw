@@ -6,11 +6,17 @@
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;
 &lt;/br&gt;
 &lt;p&gt;零件1&lt;/p&gt;
-&lt;iframe src="https://vimeo.com/145036370" width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/145036370" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145036370"&gt;零件1&lt;/a&gt; from &lt;a href="https://vimeo.com/user45622243"&gt;b51382909&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;零件2&lt;/p&gt;
-&lt;iframe src="https://vimeo.com/145036369" width="500" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/145036369" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145036369"&gt;零件2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45622243"&gt;b51382909&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;組合件&lt;/p&gt;
-&lt;iframe src="https://vimeo.com/145036224 width="500" height="271" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/145036224" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145036224"&gt;組合件&lt;/a&gt; from &lt;a href="https://vimeo.com/user45622243"&gt;b51382909&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
