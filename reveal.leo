@@ -315,7 +315,7 @@
 </v>
 </v>
 </v>
-<v t="40323235.20151108203213.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="40323235.20151108203213.1"><vh>@clean simplest3.html</vh>
 <v t="40323235.20151108203213.2"><vh>檔案說明</vh></v>
 <v t="40323235.20151108203213.3" a="E"><vh>html 標註</vh>
 <v t="40323235.20151108203213.4" a="E"><vh>body 標註</vh>
@@ -689,7 +689,6 @@ Diff...
     &lt;h1&gt;心得&lt;/h1&gt;
     &lt;p&gt;透過這次的作業，我又認識了一套製圖的軟體，透過一次次不斷的嘗試，我慢慢摸清楚如何使用這套軟體，也對這樣的交作業方式有更多的了解，並更佳熟悉。&lt;/p&gt;
     &lt;p&gt;自評分數:65&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2259,9 +2258,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;剛開始真的都不會，但經過跟同學討論後慢慢有點觀念，然後多次嘗試後也成功了&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2292,15 +2291,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;第一周作業&lt;/h1&gt;
+    &lt;p&gt;40323235莊皓惟&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;筆記&lt;/h1&gt;
+    &lt;p&gt;透過git跟github來達到版次管理，依據git add .然後git commit - m"xxx"然後git push 然後就完成了&lt;/p&gt;
+     href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
