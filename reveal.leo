@@ -285,7 +285,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -300,7 +300,7 @@
 </v>
 </v>
 </v>
-<v t="40323235.20151012081807.1"><vh>@clean simplest2.html</vh>
+<v t="40323235.20151012081807.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323235.20151012081807.2"><vh>檔案說明</vh></v>
 <v t="40323235.20151012081807.3" a="E"><vh>html 標註</vh>
 <v t="40323235.20151012081807.4" a="E"><vh>body 標註</vh>
@@ -681,7 +681,6 @@ Diff...
 <t tx="40323235.20151012081807.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;內容&lt;/h1&gt;
     &lt;p&gt;藉由親自使用solvespace，來慢慢熟悉軟體的使用方法。&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2299,7 +2298,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;筆記&lt;/h1&gt;
     &lt;p&gt;透過git跟github來達到版次管理，依據git add .然後git commit - m"xxx"然後git push 然後就完成了&lt;/p&gt;
-     href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
