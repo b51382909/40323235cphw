@@ -39,7 +39,12 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="40323235.20151102175621.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="40323235.20151108201600.1"><vh>@edit 2015cphww5,6.md</vh></v>
+<v t="leo.20151229210321.1"><vh>@edit 2015cphww5,6.md</vh></v>
+<v t="leo.20151229210329.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151229211306.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151229212304.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20151229213314.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20151229213940.1"><vh>@edit 2015cphww14.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -285,7 +290,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -300,7 +305,7 @@
 </v>
 </v>
 </v>
-<v t="40323235.20151012081807.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="40323235.20151012081807.1"><vh>@clean simplest2.html</vh>
 <v t="40323235.20151012081807.2"><vh>檔案說明</vh></v>
 <v t="40323235.20151012081807.3" a="E"><vh>html 標註</vh>
 <v t="40323235.20151012081807.4" a="E"><vh>body 標註</vh>
@@ -327,6 +332,81 @@
 </v>
 </v>
 <v t="40323235.20151108203213.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151229210615.1"><vh>@clean simplest7.html</vh>
+<v t="leo.20151229210615.2"><vh>檔案說明</vh></v>
+<v t="leo.20151229210615.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151229210615.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151229210615.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151229210615.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151229210615.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151229210615.8"><vh>作業任務二</vh></v>
+<v t="leo.20151229210615.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151229210615.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151229211429.1"><vh>@clean simplest8.html</vh>
+<v t="leo.20151229211429.2"><vh>檔案說明</vh></v>
+<v t="leo.20151229211429.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151229211429.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151229211429.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151229211429.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151229211429.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151229211429.8"><vh>作業任務二</vh></v>
+<v t="leo.20151229211429.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151229211429.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151229212512.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20151229212512.2"><vh>檔案說明</vh></v>
+<v t="leo.20151229212512.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151229212512.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151229212512.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151229212512.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151229212512.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151229212512.8"><vh>作業任務二</vh></v>
+<v t="leo.20151229212512.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151229212512.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151229213400.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20151229213400.2"><vh>檔案說明</vh></v>
+<v t="leo.20151229213400.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151229213400.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151229213400.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151229213400.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151229213400.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151229213400.8"><vh>作業任務二</vh></v>
+<v t="leo.20151229213400.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151229213400.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151229214233.1" a="E"><vh>@clean simplest14.html</vh>
+<v t="leo.20151229214233.2"><vh>檔案說明</vh></v>
+<v t="leo.20151229214233.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151229214233.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151229214233.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151229214233.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151229214233.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151229214233.8"><vh>作業任務二</vh></v>
+<v t="leo.20151229214233.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151229214233.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2505,5 +2585,364 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151229210615.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151229210615.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151229210615.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151229210615.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151229210615.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151229210615.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229210615.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229210615.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第七周作業&lt;/h1&gt;
+    &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151229210615.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;內容&lt;/h1&gt;
+    &lt;p&gt;solvespace只有2.3MB，就攜帶性而言非常的好，雖然功能性還差很多，但就基本功能都有的情況下是非常實用的。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229210615.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這周開始要將自己的作業推至班級倉儲，還有很多不了解要多請問同學。&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229211429.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151229211429.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151229211429.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151229211429.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151229211429.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151229211429.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229211429.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229211429.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第八周作業&lt;/h1&gt;
+    &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151229211429.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;內容&lt;/h1&gt;
+    &lt;p&gt;1.第一周 學習建立分支，並了解分支架構。2.第四周 學習solvespace的基本操作。3.第五周 學習cero的基本操作方法。4.第六周 測量腳踏車的尺寸。 5.第七周 繪製腳踏車零件。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229211429.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這周主要是整理前面幾周的作業，使自己以後可以複習。&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229212512.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151229212512.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151229212512.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151229212512.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151229212512.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151229212512.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229212512.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229212512.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第十一周作業&lt;/h1&gt;
+    &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151229212512.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;內容&lt;/h1&gt;
+    &lt;p&gt;下載班上的倉儲，復原到舊版本，git reset --hard，將舊版的資料貼到新的班級倉儲裡，存檔後推回遠端。&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229212512.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;因個人節點都被刪除，所以要找上個版次，重新建立。&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229213400.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151229213400.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151229213400.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151229213400.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151229213400.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151229213400.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229213400.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229213400.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第十二周作業&lt;/h1&gt;
+    &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151229213400.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;內容&lt;/h1&gt;
+    &lt;p&gt;下載 fix壓縮檔，下載leo壓縮檔，並放置於fix資料夾內，新增fix路徑 copy leo-editor-broke-abbrev.zip "C:\Ana3_2015\data\" 路徑依自己的檔案修改，修改start.bat內pip install leo-editor-broke-abbrev.zip，啟動fix ，將相對應得檔案複製到指定位置即可。
+&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229213400.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這禮拜修改了fix檔內路徑，對於這個概念越來越清楚了。
+&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229214233.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151229214233.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151229214233.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151229214233.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151229214233.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151229214233.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229214233.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151229214233.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第十四周作業&lt;/h1&gt;
+    &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151229214233.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;內容&lt;/h1&gt;
+    &lt;p&gt;onshape的使用。
+&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151229214233.9">&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;Onshape讓我驚奇讓我平常使用的軟體能夠在網際網路上畫圖即時分享，這點真的是分常厲害。
+&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
