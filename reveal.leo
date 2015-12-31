@@ -40,8 +40,8 @@
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="40323235.20151102175621.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151229210321.1"><vh>@edit 2015cphww5,6.md</vh></v>
-<v t="leo.20151229210329.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo.20151229211306.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151229210329.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo.20151229212304.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="leo.20151229213314.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20151229213940.1"><vh>@edit 2015cphww14.md</vh></v>
@@ -395,7 +395,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151229214233.1" a="E"><vh>@clean simplest14.html</vh>
+<v t="leo.20151229214233.1"><vh>@clean simplest14.html</vh>
 <v t="leo.20151229214233.2"><vh>檔案說明</vh></v>
 <v t="leo.20151229214233.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151229214233.4" a="E"><vh>body 標註</vh>
@@ -753,7 +753,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第四周作業&lt;/h1&gt;
+    &lt;h1&gt;第四週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟10/12&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -824,7 +824,7 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第五,六周作業&lt;/h1&gt;
+    &lt;h1&gt;第五,六週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟11/08&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2370,7 +2370,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第一周作業&lt;/h1&gt;
+    &lt;h1&gt;第一週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2638,7 +2638,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第七周作業&lt;/h1&gt;
+    &lt;h1&gt;第七週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2709,7 +2709,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第八周作業&lt;/h1&gt;
+    &lt;h1&gt;第八週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2780,7 +2780,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第十一周作業&lt;/h1&gt;
+    &lt;h1&gt;第十一週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2851,7 +2851,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第十二周作業&lt;/h1&gt;
+    &lt;h1&gt;第十二週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -2924,7 +2924,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;第十四周作業&lt;/h1&gt;
+    &lt;h1&gt;第十四週作業&lt;/h1&gt;
     &lt;p&gt;40323235莊皓惟12/29&lt;/p&gt;		
 &lt;/section&gt;
 	
